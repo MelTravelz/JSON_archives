@@ -1,9 +1,9 @@
 # THE JSON ARCHIVES
 
 ## Welcome 
-Hello and congratuations for your determination to expand your coding muscles! The intention of this practice repository is to provide an opportunity to write code with different limitations and restrictions. 
+Hello and congrats for your determination to expand your coding muscles! The intention of this practice repository is to provide an opportunity to write code with different limitations and restrictions. 
 
-Please note that this is a work in progress. I will be adding additional directories of JSON files and challenges in the coming months (2023). I would love to see your solutions and welcome feedback on the overall idea and/or the small details you find. I also encourage you all to create a small group of peers and work through these individually but at the same time; then compare your wildly different solutions!
+Please note that this is a work in progress. I will be adding additional directories of JSON files and challenges in the coming months (2023). I would love to see your solutions and welcome feedback on the overall idea and/or the small details you find. (Find contact details on my [GitHub Profile Page](https://github.com/MelTravelz).) I also encourage you all to create a small group of peers and work through these individually but at the same time; then compare your wildly different solutions!
 
 As Sandi Metz states in her book *Practical Object-Oriented Design*, "Now that you know the rules [of coding], you can bend them to your own purposes. Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow."
 
@@ -17,11 +17,13 @@ The most basic instructions for all of the options below are as follows:
 - Do some fancy-pantsy logic
 - Return JSON
 
-Additionally, for each option first import the json file labeled "clean". Once you have your code up and running, try importing the file labeled "edgy." This should break like everything and since we are software developers we solve problems, refactor our code, and get it working once again!
+Additionally:
+- For each Option below, work with the json file labeled "clean" first.
+- Once you have your code up and running, try importing the file labeled "edgy." (This should break everything... but fear not! You are a software developer and you solve problems, you refactor code, and you get it working once again!)
 
-For each directory here, you'll see a README with the challenge details and the json files you need. Solve the challenge with the Option 1 restrictions, then Option 2, and then Option 3. 
+Within each directory here, you'll see a README with the challenge details and the json files you need. Solve the challenge with the Option 1 restrictions, then Option 2, and then Option 3. Choose any language/framework you like.
 
-Do not pressure yourself to finish all in one day. Maybe one a day? Make sure you drink water, step outside occationally, and take 5-minutes breaks as you work. You got this!
+And do not pressure yourself to finish all in one day! Maybe complete an Option a day. Make sure you drink water, step outside occationally, and take 5-minutes breaks as you work. You got this!
 
 ---
 
