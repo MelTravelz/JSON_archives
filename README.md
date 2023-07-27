@@ -51,7 +51,7 @@ Ahhh, the Take-Home. You've been asked to spin up a repo of your own (in your pr
 ## Questions to Consider
 Now, I know once you open up that first challenge you're gonna have a million questions... *"Do you want this as an integer or float?" "How should the return hash be structured - similar to how it comes in or the least nested as possible?" "Should I break this into helper methods immediately or wait until a refactor?"* 
 
-The challenges are intentionally vague: Create a list of your own Clarification Questions that you would want to ask an interviewer or senior manager. Then, make a decision and allow that to guide your work.
+The challenges are intentionally vague: Create a list of your own Clarification Questions that you would want to ask an interviewer or senior manager. Then, make decision, pseudocode your ideas, and allow all that to guide your work.
 
 Again, I highly recommend you create a group of peers that work at the same time so you can compare the decisions you made and how that created code completely different from one another. You'll learn so, so much more this way! Happy Coding!
 
