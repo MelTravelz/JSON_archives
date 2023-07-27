@@ -14,7 +14,7 @@ As Sandi Metz states in her book *Practical Object-Oriented Design*, "Now that y
 The most basic instructions for all of the Options below are as follows: 
 - Open and read the JSON file
 - Parse through the data
-- Do some fancy-pantsy logic
+- Do some fancy-pantsy logic as described by the challenge README
 - Return JSON
 
 Additionally:
