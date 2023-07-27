@@ -1,7 +1,7 @@
 # THE JSON ARCHIVES
 
 ## Welcome 
-Hello and congrats for your determination to expand your coding muscles! The intention of this practice repository is to provide an opportunity to write code with different limitations and restrictions. 
+Hello and congrats for your determination to expand your coding muscles! The intention of this practice repository is to provide an opportunity for us to manipulate JSON and write code with different limitations and restrictions. 
 
 Please note that this is a work in progress. I will be adding additional directories of JSON files and challenges in the coming months (2023). I would love to see your solutions and welcome feedback on the overall idea and/or the small details you find. (My contact details can be found on my [GitHub Profile Page](https://github.com/MelTravelz).) I also encourage you all to create a small group of peers and work through these individually but at the same time; then compare your wildly different solutions!
 
@@ -18,10 +18,10 @@ The most basic instructions for all of the Options below are as follows:
 - Return JSON
 
 Additionally:
-- For each Option below, work with the json file labeled "clean" first.
-- Once you have your code up and running, try importing the file labeled "edgy." (This should break everything... but fear not! You are a software developer and you solve problems, you refactor code, and you get it working once again!)
+- For each Option below, work with the JSON file labeled "clean" first.
+- Once you have your code up and running, try importing the JSON file labeled "edgy." (This should break everything... but fear not! You are a Software Developer and you solve problems, you refactor code, and you get it working once again!)
 
-Within each directory here, you'll see a README with the challenge details and the json files you need. Solve the challenge with the Option 1 restrictions, then Option 2, and then Option 3. Choose any language/framework you like.
+Within each directory here, you'll see an additional README with the challenge details and the JSON files you need. Solve the challenge with the Option 1 restrictions, then Option 2, and then Option 3. Choose any language/framework you like.
 
 And do not pressure yourself to finish all in one day! Maybe complete an Option a day. Make sure you drink water, step outside occationally, and take 5-minutes breaks as you work. You got this!
 
@@ -44,7 +44,7 @@ Goodness! After finishing Option 1, let us all take a moment and pause in apprec
 ### Option 3: Home Sweet Home
 Ahhh, the Take-Home. You've been asked to spin up a repo of your own (in your preferred language and framework) and let your imagination run wild. Build out an API that delivers the desired data, and then, what other ideas do you have? Maybe a database? Maybe full CRUD functionality? Maybe just a micro service?
 
-**Helpful Hint:** You are a problem-solver and critical-thinker. As long as you can defend the decisions you made, they will be impressed!
+**Helpful Hint:** You are a problem-solver and critical-thinker. As long as you can defend your decisions, they will be impressed!
 
 <br>
 
