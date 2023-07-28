@@ -19,7 +19,7 @@ The most basic instructions for all of the Options below are as follows:
 
 Additionally:
 - For each Option below, work with the JSON file labeled "clean" first.
-- Once you have your code up and running, try importing the JSON file labeled "edgy." (This should break everything... but fear not! You are a Software Developer and you solve problems, you refactor code, and you get it working once again!)
+- Once you have your code up and running, try importing the JSON file labeled "edgy." (This should break everything... but fear not! You are a Software Developer and you solve problems, you refactor code, and you will get it working once again!)
 
 Within each directory here, you'll see an additional README with the challenge details and the JSON files you need. Solve the challenge with the Option 1 restrictions, then Option 2, and then Option 3. Choose any language/framework you like.
 
