@@ -37,7 +37,7 @@ You find yourself in the hot seat of a technical challenge: You've been asked to
 ### Option 2: You're so Classy
 Goodness! After finishing Option 1, let us all take a moment and pause in appreciation of Object Oriented Programming (OOP). This time around, you've been asked to go ahead and build out classes. NICE. Think of all the possibilities this opens up now! (Note: Writing tests is still optional just for time's sake.)
 
-**Helpful Hint:** Refresh yourself on the 4 pillars of OOP and which principles can you incorporate! When was the last time you used a runner file, modules, inheritance, pagination?
+**Helpful Hint:** Refresh yourself on the 4 pillars of OOP and which principles can you incorporate! Plus, when was the last time you used a runner file, modules, inheritance, pagination?
 
 ---
 
