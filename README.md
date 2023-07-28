@@ -28,7 +28,7 @@ And do not pressure yourself to finish all in one day! Maybe complete an Option 
 ---
 
 ### Option 1: Very Tech-Challenging
-You find yourself in the hot seat of a technical challenge: You've been asked to focus on writing a method that delivers the data asked for. However, you've been instructed NOT to write tests, NOT to make classes, and NOT to use pry. Deep breath... you got this!
+You find yourself in the hot seat of a technical challenge: You've been asked to focus on writing a method that delivers the data asked for. However, you've been instructed NOT to write tests, NOT to make classes, and NOT to use pry (if you're working with Ruby). Deep breath... you got this!
 
 **Helpful Hint:** `pp` will pretty print to the terminal!
 
