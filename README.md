@@ -3,7 +3,7 @@
 ## Welcome 
 Hello and congrats for your determination to expand your coding muscles! The intention of this practice repository is to provide an opportunity for us to manipulate JSON and write code with different limitations and restrictions. 
 
-Please note that this is a work in progress. I will be adding additional directories of JSON files and challenges in the coming months (2023). I would love to see your solutions and welcome feedback on the overall idea and/or the small details you find. (My contact details can be found on my [GitHub Profile Page](https://github.com/MelTravelz).) I also encourage you all to create a small group of peers and work through these individually but at the same time; then compare your wildly different solutions!
+Please note that this is a work in progress. I will be adding additional directories of JSON files and challenges. I would love to see your solutions and welcome feedback on the overall idea and/or the small details you find. (My contact details can be found on my [GitHub Profile Page](https://github.com/MelTravelz).) I also encourage you all to create a small group of peers and work through these individually but at the same time; then compare your wildly different solutions!
 
 As Sandi Metz states in her book *Practical Object-Oriented Design*, "Now that you know the rules [of coding], you can bend them to your own purposes. Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow."
 
